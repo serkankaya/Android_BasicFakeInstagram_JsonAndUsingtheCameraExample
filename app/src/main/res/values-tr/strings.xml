@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Sekogram</string>
+    <string name="appbar_scrolling_view_behavior">Sekogram :)</string>
+    <string name="btnRecordVideo">Video Kaydet</string>
+    <string name="btnTakePicture">Fotoğraf Çek</string>
+    <string name="btnUploadToServer">Yükle</string>
+    <string name="cikis">Çıkış</string>
+    <string name="fotolarim">Sekogram :)</string>
+    <string name="or">(veya)</string>
+    <string name="title_activity_resimlistesi">Fotoğraflarım</string>
+</resources>

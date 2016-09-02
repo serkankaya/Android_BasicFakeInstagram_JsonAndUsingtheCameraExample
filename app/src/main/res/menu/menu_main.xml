@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.host.imagegallery.resimlistesi">
+    <item
+        android:id="@+id/cikis"
+        android:orderInCategory="100"
+        android:title="@string/cikis"
+        app:showAsAction="never" />
+</menu>

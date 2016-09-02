@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sekogram</string>
+    <string name="title_activity_resimlistesi">Fotoğraflarım</string>
+    <string name="fotolarim">Sekogram :)</string>
+    <string name="cikis">Logout</string>
+    <string name="btnTakePicture">Take Picture</string>
+    <string name="btnRecordVideo">Record Video</string>
+    <string name="or">(OR)</string>
+    <string name="btnUploadToServer">Load</string>
+    <string name="appbar_scrolling_view_behavior">Sekogram :)</string>
+</resources>
