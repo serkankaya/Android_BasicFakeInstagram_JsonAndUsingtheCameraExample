@@ -15,3 +15,6 @@ Bu proje android tarafında json ile basit bir Instagram uygulamasının işlevi
 ![alt text](ext3.jpeg "Project Photo 3")
 
 ![alt text](ext4.jpeg "Project Photo 4")
+
+
+MIT License
